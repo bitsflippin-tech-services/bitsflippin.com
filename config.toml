@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Bitsflippin Tech Services
+title = "Bitsflippin Tech Services"
 
 [module]
   [module.hugoVersion]
