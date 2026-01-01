@@ -86,3 +86,7 @@ title = "Hugo Serif Theme"
     name = "Contact"
     url = "/contact/"
     weight = 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'    
