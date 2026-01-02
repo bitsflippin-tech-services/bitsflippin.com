@@ -1,13 +1,21 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
+meta_title: '"Bitsflippin Tech Services'
+description: "TechConsult & Hardware | Boutique IT Solutions"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
 intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Bitsflippin Tech Services - TechConsult & Hardware | Boutique IT Solutions
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Boutique technology consulting, JAMStack development, and premium IT hardware retail.
+
+# High-Performance Solutions for Modern Businesses
+We bridge the gap between **cutting-edge software** and **robust hardware**. From Kubernetes orchestration to DIY Robotics, we empower your digital journey.
+
+### Why Choose Us?
+* **Modern Stacks:** Hugo, Go, and JAMStack for blazing speed.
+* **Full Lifecycle:** Design, Development, and CI/CD Deployment.
+* **Hardware Experts:** Specialized in SBCs and Networking.
