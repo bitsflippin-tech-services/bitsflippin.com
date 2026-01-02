@@ -25,7 +25,7 @@ title = "Bitsflippin Tech Services"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = ""Bitsflippin Tech Services"
+    alt = "Bitsflippin Tech Services"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
