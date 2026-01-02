@@ -8,4 +8,6 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We offer a dual-track approach to technology:
+1. **Software Engineering:** Cloud-native development and IaaS/PaaS solutions.
+2. **IT Hardware:** Retail sales of components, robotics, and networking gear.
