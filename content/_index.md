@@ -8,10 +8,6 @@ intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positi
 intro_image_hide_on_mobile: true
 ---
 
-# Bitsflippin Tech Services - TechConsult & Hardware | Boutique IT Solutions
-
-Boutique technology consulting, JAMStack development, and premium IT hardware retail.
-
 # High-Performance Solutions for Modern Businesses
 We bridge the gap between **cutting-edge software** and **robust hardware**. From Kubernetes orchestration to DIY Robotics, we empower your digital journey.
 
