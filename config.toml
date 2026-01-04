@@ -34,11 +34,11 @@ title = "Bitsflippin Tech Services"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
-    black = "#2f2f41"
+    primary = "#7E4A99"
+    black = "#2c1a3d"
     white = "#ffffff"
-    white_offset = "#f6f7ff"
-    grey = "#5C5A5A"
+    white_offset = "#EFF4F6"
+    grey = "#5d3670"
 
   [params.seo]
     meta_twitter_site = "@zerostaticio"

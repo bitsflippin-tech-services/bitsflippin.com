@@ -9,18 +9,20 @@ intro_image_hide_on_mobile: true
 ---
 
 # HPC Solutions for Modern Businesses
+
+
 We bridge the gap between **cutting-edge software** and **robust hardware**. From Kubernetes orchestration to DIY Robotics, we empower your digital journey.
 
-## Why Choose Us?
+#### Why Choose Us?
+
+
 * **Modern Stacks:** Hugo, Go, and JAMStack for blazing speed.
 * **Full Lifecycle:** Design, Development, CI/CD Deployment, Testing and Hypercare.
 * **Hardware Experts:** Specialized in Servers, Desktops, SBCs and Networking.
 
-### Announcement
-We are currently accepting new projects for 2026. Check the promo page for special offer for new customers.
+---
 
-<br/>
-
+*We are currently **onboarding** new projects for 2026.*
 
 
 

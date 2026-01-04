@@ -5,34 +5,34 @@
     <loc>http://localhost:1313/team/suresh-kannan/</loc>
     <lastmod>2018-12-20T13:44:30+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/peter-van-eijk/</loc>
+    <loc>http://localhost:1313/team/arya-navneet/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/accounting/</loc>
+    <loc>http://localhost:1313/services/managedservices/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/business-advisory/</loc>
+    <loc>http://localhost:1313/services/webappdev/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/kaushalya-suresh/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/robert-johnson/</loc>
+    <loc>http://localhost:1313/team/peter-brussels/</loc>
     <lastmod>2018-12-20T13:44:23+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/business-sales/</loc>
+    <loc>http://localhost:1313/services/containerization/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/tamara-ells/</loc>
     <lastmod>2018-12-20T13:44:55+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/mergers/</loc>
+    <loc>http://localhost:1313/services/debugging/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/superannuation/</loc>
+    <loc>http://localhost:1313/services/cloudconsulting/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/tax-preperation/</loc>
+    <loc>http://localhost:1313/services/mobappdev/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -48,6 +48,9 @@
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/promo/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
