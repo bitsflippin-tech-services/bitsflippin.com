@@ -15,7 +15,6 @@ Where every bit counts, and innovation never stops...
 * **Hardware:** A curated shop for SBCs, Networking, and DIY Electronics.
 * **Education:** Cloud, Security, and OpenSource training.
 
-
 ## Our team of experts offers a range of services, including:
 - SRE as a Service & DevOps
 - Linux administration and cloud operations
