@@ -1,12 +1,12 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "link": "https://github.com/bitsflippin",
         "image": "images/social/github.svg"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/bitsflippin-tech-services/",
         "image": "images/social/twitter.svg"
     }
 ]
