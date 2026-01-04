@@ -13,8 +13,8 @@ We bridge the gap between **cutting-edge software** and **robust hardware**. Fro
 
 ## Why Choose Us?
 * **Modern Stacks:** Hugo, Go, and JAMStack for blazing speed.
-* **Full Lifecycle:** Design, Development, and CI/CD Deployment.
-* **Hardware Experts:** Specialized in SBCs and Networking.
+* **Full Lifecycle:** Design, Development, CI/CD Deployment, Testing and Hypercare.
+* **Hardware Experts:** Specialized in Servers, Desktops, SBCs and Networking.
 
 ## Our Core Pillars
 * **Engineering:** Scalable apps with MEVN, Go, and JAMStack.
