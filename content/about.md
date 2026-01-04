@@ -5,9 +5,7 @@ date: 2018-02-22T17:01:34+07:00
 
 ![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
 
-## Learn about our mission, operating hours, and how to reach us.
-
-Where every bit counts, and innovation never stops...
+### Where every bit counts, and innovation never stops...
 
 ## Our Core Pillars
 * **Engineering:** Scalable apps with MEVN, Go, and JAMStack.

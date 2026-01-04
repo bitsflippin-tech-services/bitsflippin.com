@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/team/suresh-kannan/</loc>
+    <lastmod>2018-12-20T13:44:30+10:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/team/peter-van-eijk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
@@ -11,11 +14,8 @@
     <loc>http://localhost:1313/services/business-advisory/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/sage-kirk/</loc>
+    <loc>http://localhost:1313/team/kaushalya-suresh/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/team/mike-vance/</loc>
-    <lastmod>2018-12-20T13:44:30+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/team/robert-johnson/</loc>
     <lastmod>2018-12-20T13:44:23+10:00</lastmod>
