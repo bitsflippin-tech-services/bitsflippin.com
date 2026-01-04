@@ -9,46 +9,46 @@
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Accounting</title>
-      <link>http://localhost:1313/services/accounting/</link>
+      <title>Managed Application and Web Hosting</title>
+      <link>http://localhost:1313/services/managedservices/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/accounting/</guid>
-      <description>&lt;p&gt;Financial accounting (or financial accountancy) is the field of accounting concerned with the &lt;strong&gt;summary, analysis and reporting&lt;/strong&gt; of financial transactions related to a business.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/managedservices/</guid>
+      <description>We offer Managed WordPress/Custom Application hosting at attractive prices.</description>
     </item>
     <item>
-      <title>Business Advisory</title>
-      <link>http://localhost:1313/services/business-advisory/</link>
+      <title>Web Application Development</title>
+      <link>http://localhost:1313/services/webappdev/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      <guid>http://localhost:1313/services/business-advisory/</guid>
-      <description>Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses.</description>
+      <guid>http://localhost:1313/services/webappdev/</guid>
+      <description>Developing good web application is not easy but we are here to assist you.</description>
     </item>
     <item>
-      <title>Business Sales</title>
-      <link>http://localhost:1313/services/business-sales/</link>
+      <title>Containerized Workloads and Virtual Machines</title>
+      <link>http://localhost:1313/services/containerization/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>http://localhost:1313/services/business-sales/</guid>
-      <description>&lt;p&gt;Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/containerization/</guid>
+      <description>Containerizing workloads can bring huge benifits to your organisation.</description>
     </item>
     <item>
-      <title>Mergers</title>
-      <link>http://localhost:1313/services/mergers/</link>
+      <title>Performance Analysis and Debugging</title>
+      <link>http://localhost:1313/services/debugging/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>http://localhost:1313/services/mergers/</guid>
-      <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/debugging/</guid>
+      <description>Performance can be uplifted by optimizing the code and applying some unique solutions to problems.</description>
     </item>
     <item>
-      <title>Superannuation</title>
-      <link>http://localhost:1313/services/superannuation/</link>
+      <title>Cloud Consulting</title>
+      <link>http://localhost:1313/services/cloudconsulting/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      <guid>http://localhost:1313/services/superannuation/</guid>
-      <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/cloudconsulting/</guid>
+      <description>Migrate to Cloud - Personalized cloud based solutions</description>
     </item>
     <item>
-      <title>Tax Preparation</title>
-      <link>http://localhost:1313/services/tax-preperation/</link>
+      <title>Servers, Desktops and Hardware</title>
+      <link>http://localhost:1313/services/mobappdev/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/tax-preperation/</guid>
-      <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
+      <guid>http://localhost:1313/services/mobappdev/</guid>
+      <description>Shop premium networking hardware, SBCs, and robotic components at bitsflippin</description>
     </item>
   </channel>
 </rss>

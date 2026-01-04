@@ -4,7 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-**Phone:** +91 9080314481
+**Phone:** +91 8866015116
 **Email:** hello@bitsflippin.com
 
 ## Regd Address:
