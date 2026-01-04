@@ -9,6 +9,12 @@ date: 2018-02-22T17:01:34+07:00
 
 Where every bit counts, and innovation never stops...
 
+## Our Core Pillars
+* **Engineering:** Scalable apps with MEVN, Go, and JAMStack.
+* **Infrastructure:** Kubernetes, Podman, and automated CI/CD pipelines.
+* **Hardware:** A curated shop for SBCs, Networking, and DIY Electronics.
+* **Education:** Cloud, Security, and OpenSource training.
+
 
 ## Our team of experts offers a range of services, including:
 - SRE as a Service & DevOps

@@ -16,16 +16,6 @@ We bridge the gap between **cutting-edge software** and **robust hardware**. Fro
 * **Full Lifecycle:** Design, Development, CI/CD Deployment, Testing and Hypercare.
 * **Hardware Experts:** Specialized in Servers, Desktops, SBCs and Networking.
 
-<br/>
-
-## Our Core Pillars
-* **Engineering:** Scalable apps with MEVN, Go, and JAMStack.
-* **Infrastructure:** Kubernetes, Podman, and automated CI/CD pipelines.
-* **Hardware:** A curated shop for SBCs, Networking, and DIY Electronics.
-* **Education:** Cloud, Security, and OpenSource training.
-
-<br/>
-
 ### Announcement
 We are currently accepting new projects for 2026. Check the promo page for special offer for new customers.
 
