@@ -9,4 +9,4 @@ promoted: true
 weight: 1
 ---
 
-Suresh Kannan is an seasoned professional having an experience of more than 27 years. Brings core marketing and business expertise and wisdom to the business.
+Suresh Kannan is an seasoned professional having an experience of more than 27 years. Brings core marketing, business accumen and wisdom to the business.
