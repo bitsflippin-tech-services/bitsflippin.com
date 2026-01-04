@@ -3,7 +3,7 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![About Us](/images/undraw_scrum-board_7bgh.svg)
 
 ### Where every bit counts, and innovation never stops...
 
