@@ -17,6 +17,7 @@ We bridge the gap between **cutting-edge software** and **robust hardware**. Fro
 * **Full Lifecycle:** Design, Development, CI/CD Deployment, Testing and Hypercare.
 * **Hardware Experts:** Specialized in Servers, Desktops, SBCs and Networking.
 
+<br/>
 
 ## Our Core Pillars
 
@@ -25,7 +26,13 @@ We bridge the gap between **cutting-edge software** and **robust hardware**. Fro
 * **Hardware:** A curated shop for SBCs, Networking, and DIY Electronics.
 * **Education:** Cloud, Security, and OpenSource training.
 
-\\ We are currently accepting new projects for 2026. Check the promo page for special offer for new customers.
+<br/>
+
+### Announcement
+We are currently accepting new projects for 2026. Check the promo page for special offer for new customers.
+
+<br/>
+
 
 
 
