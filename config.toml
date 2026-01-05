@@ -41,8 +41,8 @@ title = "Bitsflippin Tech Services"
     grey = "#5d3670"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
     meta_og_image = "images/logo/logo.svg"
 
   [params.services]

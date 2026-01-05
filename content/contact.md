@@ -25,4 +25,4 @@ Chennai/Hyderabad/Puducherry, India
 
 **Phone:** +91 8866015116 | **Email:** hello@bitsflippin.com
 
-[![TChat on WhatsApp](/images/WhatsAppButtonGreenMedium.svg "Chat on WhatsApp")](https://wa.me/+918866015116)
+[![TChat on WhatsApp](/images/social/WhatsAppButtonGreenMedium.svg "Chat on WhatsApp")](https://wa.me/+918866015116)
