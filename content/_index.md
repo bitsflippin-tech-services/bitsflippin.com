@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: '"Bitsflippin Tech Services'
+meta_title: 'Bitsflippin Tech Services'
 description: "Technology Consulting & Hardware | Boutique IT Solutions"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
