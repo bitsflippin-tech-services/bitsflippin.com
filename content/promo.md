@@ -14,7 +14,7 @@ Is your business ready for 2026? Most "cheap" websites are slow, insecure, and l
 
 Join **bitsflippin** this January and get a high-performance, corporate-grade web presence for half the price.
 
-[**GET MY 50% DISCOUNT CODE**](#contact-form)
+[**GET MY 50% DISCOUNT CODE**](/contact)
 *(Limited to the first 10 businesses this month)*
 
 ---
@@ -24,7 +24,7 @@ We don't just build sites; we build high-availability digital assets.
 
 * **Premium Web Design:** Custom, responsive design built with **Hugo** or **JAMStack** for blazing-fast load speeds (SEO loves this).
 * **Corporate Branded Email:** Stop using @gmail.com. Get `yourname@yourbusiness.com` hosted on secure, encrypted infrastructure.
-* **High-Availability Hosting:** Your site stays up. We deploy on robust nodes across **AWS, Hetzner, or Digital Ocean**.
+* **High-Availability Hosting:** Your site stays up. We deploy on robust nodes across **AWS, Vultr, Hetzner, or Digital Ocean**.
 * **Secure by Design:** SSL certificates, hardened headers, and protection against common web threats.
 
 ---
@@ -32,19 +32,21 @@ We don't just build sites; we build high-availability digital assets.
 ### Why bitsflippin?
 We are a boutique consultancy. You aren't just another ticket in a system; you get direct access to engineers who care about your **Customer Brand Experience.**
 
-> "The transition to a custom JAMStack site with bitsflippin cut our load times by 70% and gave our clients a seamless booking experience." 
-> — *Prospective Client Success Story*
+> Ridiculously efficient’ is the phrase that comes to mind when I think about the firm. 
+> I was always in awe of bitsflippin's ability to take on complex projects and get people on board with ideas—even people who were initially on completely different pages. 
+
+
+> "As an agency, Bitsflippin earns my highest recommendation." -- A Canadian SaaS firm
 
 ---
 
 ### How to Claim Your 50% Discount
 
-1.  **Fill out the form below** before January 31st.
-2.  **Initial Consult:** We’ll have a brief 15-minute discovery call to understand your brand goals.
+1.  **Reach out to us via contact page** before January 31st.
+2.  **Initial Consult:** We’ll have a brief 15-minute to 30-minute discovery call to understand your goals.
 3.  **Deployment:** We build, secure, and launch your site and email system.
 
 ### Claim Your Offer Now
-Google forms - Signup here.
 
 ---
 
