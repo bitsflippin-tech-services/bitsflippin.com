@@ -7,6 +7,8 @@ weight: 6
 summary: "Shop premium networking hardware, SBCs, and robotic components at bitsflippin"
 ---
 
+![Retail](/images/illustrations/undraw_shopping-spree_h07u.svg)
+
 ## Premium Hardware for Builders
 We stock and support high-quality components for enthusiasts and enterprise:
 * **Networking:** Enterprise-grade switches and routers.

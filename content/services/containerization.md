@@ -7,6 +7,8 @@ weight: 3
 summary: "Containerizing workloads can bring huge benifits to your organisation."
 ---
 
+![Containers](/images/illustrations/undraw_container-ship_t6yx.svg)
+
 ### Containerizing workloads can bring huge benifits to your organisation.
 
 - Improved sandboxing of application and services from the host

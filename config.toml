@@ -87,6 +87,16 @@ title = "Bitsflippin Tech Services"
     url = "/contact/"
     weight = 2
 
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/legal/privacy/"
+    weight = 3
+    
+  [[menu.footer]]
+    name = "Terms of Service"
+    url = "/legal/terms/"
+    weight = 4
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'    

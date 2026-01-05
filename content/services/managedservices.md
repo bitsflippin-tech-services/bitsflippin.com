@@ -9,7 +9,7 @@ summary: "We offer Managed WordPress/Custom Application hosting at attractive pr
 
 We offer Managed WordPress/Custom Application hosting at attractive prices.
 
-![Managed Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Managed Services](/images/illustrations/undraw_server-cluster_7ugi.svg)
 
 ### Reliable hosting with priority support.
 

@@ -7,6 +7,8 @@ weight: 5
 summary: "Migrate to Cloud - Personalized cloud based solutions"
 ---
 
+![Cloud consulting](/images/illustrations/undraw_collaborating_mayd.svg)
+
 From On Premise Infrastructure to Cloud optimized Systems Architecture which can help you bring in cost savings and agility to business processes.
 
 ### Benefits of Migrating to the cloud are.
