@@ -10,11 +10,11 @@ draft: no
 
 
 # New Year, New Digital Identity. 🚀
-## Get **50% OFF** the bitsflippin "Professional Launch" Package.
+## Get **50% OFF** the Bitsflippin "Professional Launch" Package.
 
 Is your business ready for 2026? Most "cheap" websites are slow, insecure, and lack professional email. We’re flipping the script. 
 
-Join **bitsflippin** this January and get a high-performance, corporate-grade web presence for half the price.
+Join **Bitsflippin** this January and get a high-performance, corporate-grade web presence for half the price.
 
 [**GET MY 50% DISCOUNT CODE**](#claim)
 *(Limited to the first 10 businesses this month)*
@@ -35,7 +35,7 @@ We don't just build sites; we build high-availability digital assets.
 We are a boutique consultancy. You aren't just another ticket in a system; you get direct access to engineers who care about your **Customer Brand Experience.**
 
 > Ridiculously efficient’ is the phrase that comes to mind when I think about the firm. 
-> I was always in awe of bitsflippin's ability to take on complex projects and get people on board with ideas—even people who were initially on completely different pages. 
+> I was always in awe of Bitsflippin's ability to take on complex projects and get people on board with ideas—even people who were initially on completely different pages. 
 
 
 > "As an agency, Bitsflippin earns my highest recommendation." -- A Canadian SaaS firm
