@@ -11,7 +11,7 @@ intro_image_hide_on_mobile: true
 # HPC Solutions for Modern Businesses
 
 
-We bridge the gap between **cutting-edge software** and **robust hardware**. From Kubernetes orchestration to DIY Robotics, we empower your digital journey.
+We bridge the gap between **cutting-edge software** and **robust hardware**. Bitsflippin offers modular web development, IaaS/PaaS solutions, and specialist IT hardware for builders and businesses.
 
 #### Why Choose Us?
 
