@@ -6,6 +6,8 @@ date: 2018-02-22T17:01:34+07:00
 draft: no
 ---
 
+![Promo](/images/illustrations/undraw_redesign-feedback_aecb.svg)
+
 
 # New Year, New Digital Identity. 🚀
 ## Get **50% OFF** the bitsflippin "Professional Launch" Package.
@@ -14,7 +16,7 @@ Is your business ready for 2026? Most "cheap" websites are slow, insecure, and l
 
 Join **bitsflippin** this January and get a high-performance, corporate-grade web presence for half the price.
 
-[**GET MY 50% DISCOUNT CODE**](/contact)
+[**GET MY 50% DISCOUNT CODE**](#claim)
 *(Limited to the first 10 businesses this month)*
 
 ---
@@ -29,7 +31,7 @@ We don't just build sites; we build high-availability digital assets.
 
 ---
 
-### Why bitsflippin?
+### Why Bitsflippin?
 We are a boutique consultancy. You aren't just another ticket in a system; you get direct access to engineers who care about your **Customer Brand Experience.**
 
 > Ridiculously efficient’ is the phrase that comes to mind when I think about the firm. 
@@ -40,7 +42,9 @@ We are a boutique consultancy. You aren't just another ticket in a system; you g
 
 ---
 
-### How to Claim Your 50% Discount
+### Claim
+
+**How to *Claim* Your 50% Discount**
 
 1.  **Reach out to us via contact page** before January 31st.
 2.  **Initial Consult:** We’ll have a brief 15-minute to 30-minute discovery call to understand your goals.
