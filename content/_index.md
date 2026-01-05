@@ -16,8 +16,10 @@ We bridge the gap between **cutting-edge software** and **robust hardware**. Fro
 #### Why Choose Us?
 
 
-* **Modern Stacks:** Hugo, Go, and JAMStack for blazing speed.
+* **Modern Stacks:** MEVN, C++, Golang, MySQL, PostgreSQL, IaaS/SaaS/Cloud.
+  
 * **Full Lifecycle:** Design, Development, CI/CD Deployment, Testing and Hypercare.
+
 * **Hardware Experts:** Specialized in Servers, Desktops, SBCs and Networking.
 
 ---
