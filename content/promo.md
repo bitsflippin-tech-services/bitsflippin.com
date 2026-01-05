@@ -1,8 +1,8 @@
 ---
-title: 'Promo for 2026'
-meta_title: '"Bitsflippin Tech Services'
+title: 'Bitsflippin - Promo for 2026'
+meta_title: 'Bitsflippin Tech Services'
 description: "Technology Consulting & Hardware | Boutique IT Solutions"
-date: 2018-02-22T17:01:34+07:00
+date: 2020-01-01T17:01:34+07:00
 draft: no
 ---
 
