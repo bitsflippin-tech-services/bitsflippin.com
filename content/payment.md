@@ -4,6 +4,8 @@ description: "Secure payment methods and billing details for bitsflippin service
 date: 2026-01-01T17:01:34+07:00
 ---
 
+![Payment](/images/illustrations/undraw_pay-online_806n.svg)
+
 ## How to Pay
 To keep our boutique services streamlined, we accept:
 * **Direct Bank Transfer:** (Details provided on your invoice)

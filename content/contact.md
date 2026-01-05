@@ -4,6 +4,8 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
+![Contact](/images/illustrations/undraw_engineering-team_13ax.svg)
+
 ## Regd Address:
 Bitsflippin Tech Services,
 Chennai/Hyderabad/Puducherry, India

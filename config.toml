@@ -88,14 +88,20 @@ title = "Bitsflippin Tech Services"
     weight = 2
 
   [[menu.footer]]
+    name = "Payment"
+    url = "/payment/"
+    weight = 3    
+
+  [[menu.footer]]
     name = "Privacy Policy"
     url = "/legal/privacy/"
-    weight = 3
+    weight = 4
     
   [[menu.footer]]
     name = "Terms of Service"
     url = "/legal/terms/"
-    weight = 4
+    weight = 5
+
 
 [caches]
   [caches.images]
