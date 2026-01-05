@@ -4,7 +4,7 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-![Retail](/images/illustrations/undraw_engineering-team_13ax.svg)
+![Contact](/images/illustrations/undraw_engineering-team_13ax.svg)
 
 ## Regd Address:
 Bitsflippin Tech Services,
