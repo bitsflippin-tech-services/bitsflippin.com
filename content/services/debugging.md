@@ -7,6 +7,8 @@ weight: 4
 summary: "Performance can be uplifted by optimizing the code and applying some unique solutions to problems."
 ---
 
+![Performance tuning](/images/illustrations/undraw_server-status_7viz.svg)
+
 ### We offer Performance Tuning and Troubleshooting.
 
 For Databases, Servers, Desktops, Mobiles and more.

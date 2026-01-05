@@ -9,6 +9,8 @@ summary: "Developing good web application is not easy but we are here to assist 
 
 ### Developing good web application is not easy but we are here to assist you.
 
+![Web app dev](/images/illustrations/undraw_web-development_0wdh.svg)
+
 ### We use the following stack for applications:
 - PostgreSQL or MongoDB / MariaDB
 - Express

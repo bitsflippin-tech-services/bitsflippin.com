@@ -1,12 +1,22 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/bitsflippin",
+        "link": "https://github.com/bitsflippin-tech-services",
         "image": "images/social/github.svg"
     },
     {
         "name": "LinkedIn",
         "link": "https://www.linkedin.com/company/bitsflippin-tech-services/",
-        "image": "images/social/twitter.svg"
+        "image": "images/social/brand-linkedin.svg"
+    },
+     {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/bitsflippin",
+        "image": "images/social/brand-instagram.svg"
+    },
+     {
+        "name": "Mastodon",
+        "link": "#",
+        "image": "images/social/brand-mastodon.svg"
     }
 ]
