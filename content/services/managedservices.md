@@ -55,4 +55,4 @@ We offer Managed WordPress/Custom Application hosting at attractive prices.
 - CDN/DDOS Protection available
 - Priority Support via EMAIL/Tickets/Dedicated Support Agent.
 
-### Schedule a call to get started.
+### Reach out to us via [WhatsApp/Email](/contact)

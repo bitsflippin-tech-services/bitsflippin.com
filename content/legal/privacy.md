@@ -4,7 +4,7 @@ date: 2026-01-05T22:14:54+10:00
 featured: true
 draft: false
 weight: 1
-summary: "Privacy and data protection policy for bitsflippin customers."
+summary: "Privacy and data protection policy for Bitsflippin customers."
 ---
 
 **Last Updated:** December 2025

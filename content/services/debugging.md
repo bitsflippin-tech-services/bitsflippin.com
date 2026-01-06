@@ -12,3 +12,5 @@ summary: "Performance can be uplifted by optimizing the code and applying some u
 ### We offer Performance Tuning and Troubleshooting.
 
 For Databases, Servers, Desktops, Mobiles and more.
+
+### Reach out to us via [WhatsApp/Email](/contact)

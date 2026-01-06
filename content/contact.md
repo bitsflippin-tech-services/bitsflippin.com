@@ -23,6 +23,6 @@ Chennai/Hyderabad/Puducherry, India
 | Sunday    | Closed          |
 
 
-**Phone:** +91 8866015116 | **Email:** hello@bitsflippin.com
+**Phone:** +91 8866015116 | **Email:** `hello@bitsflippin.com`
 
 [![TChat on WhatsApp](/images/social/WhatsAppButtonGreenMedium.svg "Chat on WhatsApp")](https://wa.me/+918866015116)
