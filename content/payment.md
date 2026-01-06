@@ -12,6 +12,6 @@ To keep our boutique services streamlined, we accept:
 * **PayPal / Credit Card:** Secure links sent via our client portal.
 * **BuyMeACoffee:** We accept payments via BMC for opensource support services.
 
-[![Chat on WhatsApp](/images/bmc.svg "Buy Me a Coffee")](https://www.buymeacoffee.com/h8mbzhkkq)
+[![Buy Me A Coffee](/images/bmc.svg "Buy Me a Coffee")](https://www.buymeacoffee.com/h8mbzhkkq)
 
 **Billing Questions?** Contact `billing@bitsflippin.com`

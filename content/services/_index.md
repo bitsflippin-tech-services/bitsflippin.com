@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
-We offer a dual-track approach to technology:
+We offer a _dual-track approach_ to technology:
 1. **Software Engineering:** Cloud-native development and IaaS/PaaS solutions.
 2. **IT Hardware:** Retail sales of components, robotics, and networking gear.
 
