@@ -5,7 +5,11 @@ date: 2018-02-22T17:01:34+07:00
 
 ![About Us](/images/illustrations/undraw_scrum-board_7bgh.svg)
 
-### Where every bit counts, and innovation never stops...
+#### Where every bit counts, and innovation never stops.
+
+> We are innovators, builders, makers and gamers.
+
+>> We understand the craftmanship required to build great experiences which deliver great outcomes.
 
 ## Our Core Pillars
 * **Engineering:** Scalable apps with MEVN, Go, and JAMStack.
@@ -19,8 +23,9 @@ date: 2018-02-22T17:01:34+07:00
 - Cloud Migration & Modernization
 - Cloud FinOps
 
-## Repair and Tech Support:
-Mac and macOS expertise for software support and repair (Hyderabad only)
-Linux Desktop deployment and support (Hyderabad only)
+## Repair and Tech Support(HyperLocal):
+> - Mac and macOS expertise for software support and repair (Hyderabad only)
+> - Linux Desktop deployment and support (Hyderabad only)
+> - Android Phone software support (Unlock, Reset, Upgrade and diagnostics)
 
 By working with us, you're not only getting top-notch technical expertise, but also contributing to a more inclusive and supportive community.
